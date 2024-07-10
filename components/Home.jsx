@@ -1,4 +1,4 @@
-import SearchBar from "./searchbar"
+import SearchBar from "./SearchBar"
 import SelectMenu from "./SelectMenu"
 import CountriesList from "./CountriesList"
 import { useState } from "react"
